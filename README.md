@@ -11,16 +11,12 @@
   - requirements.txt
   - main.py
   - capture/
-    - __init__.py
     - capture_packets.py
   - analysis/
-    - __init__.py
     - detect_anomalies.py
   - emulation/
-    - __init__.py
     - emulate_scanning.py
   - utils/
-    - __init__.py
     - logger.py
 
 ## Установка
