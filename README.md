@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий:
    ```sh
    git clone https://github.com/G4linov/ITMO-net
-   cd network_anomaly_detection
+   cd ITMO-net
 
 2. Создайте виртуальное окружение и активируйте его:
    ```sh
