@@ -1,5 +1,3 @@
-# ITMO-net
-ITMO-net
 # Network Anomaly Detection
 
 ## Описание проекта
